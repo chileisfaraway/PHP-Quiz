@@ -1,0 +1,22 @@
+body {
+	background-image:url('bg.jpg');
+	font-family:'MuseoSans',Sans-Serif!important;
+}
+
+#home {
+	background-image:url('house.png');
+	width:35px;height:35px;
+	background-size:35px,35px;
+	position:absolute;
+	top:15px;
+	left:15px;
+}
+
+#heart	{
+	background-image:url('heart-logo.png');
+	width:70px;height:70px;
+	background-size:70px,70px;
+	position:absolute;
+	bottom:15px;
+	right:15px;
+}
